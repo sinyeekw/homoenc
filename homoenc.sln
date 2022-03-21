@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.20
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homoenc.Android", "homoenc.Android\homoenc.Android.csproj", "{C5CA9ED8-0A39-45C0-A218-ACCD61BAE640}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "homoenc", "homoenc\homoenc.csproj", "{3C62E118-CE51-4A82-BEB0-6156FF6EB2E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5CA9ED8-0A39-45C0-A218-ACCD61BAE640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5CA9ED8-0A39-45C0-A218-ACCD61BAE640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5CA9ED8-0A39-45C0-A218-ACCD61BAE640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5CA9ED8-0A39-45C0-A218-ACCD61BAE640}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C62E118-CE51-4A82-BEB0-6156FF6EB2E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C62E118-CE51-4A82-BEB0-6156FF6EB2E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C62E118-CE51-4A82-BEB0-6156FF6EB2E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C62E118-CE51-4A82-BEB0-6156FF6EB2E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15973BE2-4BEC-4B6E-8BFA-0B7AC36DA899}
+	EndGlobalSection
+EndGlobal
